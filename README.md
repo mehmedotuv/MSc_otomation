@@ -12,4 +12,4 @@ Yapılanlar:
 
 Yapılacaklar:
 - folder_gen.py dosyasında code iyileştirilmesi yapılması.
-- 3. jenerasyon klasör oluşumu için yapılanların 1. ve 2. jenerasyon klasörlerin oluşumu için de yapılması.
+- Üçüncü jenerasyon klasör oluşumu için yapılanların 1. ve 2. jenerasyon klasörlerin oluşumu için de yapılması.
