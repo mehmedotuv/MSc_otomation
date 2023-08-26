@@ -5,7 +5,7 @@
 
 my_function4(fname = "Tobias", lname = "Refsnes")
 
-2) you can convert this code into object oriented code
+2) you can convert this code into object oriented version
 
 """
 

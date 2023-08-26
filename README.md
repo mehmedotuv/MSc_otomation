@@ -5,7 +5,7 @@ Projenin tamamlanması 4 ayaktan oluşmaktadır ve bunlar: İhtiyaç duyulan say
 1) İhtiyaç duyulan sayıda ve jenerasyonda klasör oluşturulması. --->folder_gen.py
 2) Ham verilerin düzenlenmesi.
 3) Veriler üzerinde amaca uygun gerekli hesaplamaların yapılması.
-4) Verilerin görselliştirilmesi.
+4) Verilerin görselleştirilmesi.
 
 Yapılanlar:
 - Klasör oluşumu için gerekli script ana hatlarıyla yazıldı ve yüklendi.
